@@ -6,8 +6,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = "Z8l7kctNd6MIy471ZR7ACr1lKU6riV_o"; //Enter your Auth token
-char ssid[] = "Redmi 8"; //Enter your WIFI name
-char pass[] = "lakshana";
+char ssid[] = ""; //Enter your hospot name
+char pass[] = "";//Enter your Hospot password
 
 BlynkTimer timer;
 
